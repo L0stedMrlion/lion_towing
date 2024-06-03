@@ -1,17 +1,18 @@
 # 🚗 Lion Towing 
 
-- Standalone Towing script.
-- If you like this script, please give me a ⭐
+- Standalone Towing script
 
 ## 🙆 FEATURES
 
-- 0.01 resmon on use
+- Low resmon
 - Many customizations
 - Towing groups can be set
+- Custom notifications can be set
 
 ## 🫳 Dependecies
 
 - [ox_target](https://github.com/overextended/ox_target)
+- [ox_lib](https://github.com/overextended/ox_lib)
 
 ## 🦁 SUPPORT
 
