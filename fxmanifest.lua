@@ -7,8 +7,8 @@ version "1.0"
 lua54 "true"
 
 shared_scripts {
-    '@ox_lib/init.lua', -- DELETE IF YOU DONT WANT TO USE OX_LIB AS NOTIFY
-    "config.lua",
+    '@ox_lib/init.lua',
+    "config.lua"
 }
 
 client_scripts {
@@ -20,5 +20,6 @@ server_scripts {
 }
 
 dependencies {
-    'ox_target'
+    'ox_target',
+    'ox_lib'
 }
